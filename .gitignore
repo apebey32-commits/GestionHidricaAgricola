@@ -1,0 +1,22 @@
+
+# Android Studio
+*.iml
+.idea/
+.DS_Store
+
+# Gradle y compilación
+.gradle/
+**/build/
+.kotlin/
+.externalNativeBuild/
+.cxx/
+
+# Configuración local
+local.properties
+
+# Firebase: configuración privada del proyecto
+google-services.json
+**/google-services.json
+
+# Archivos de captura y temporales
+captures/
